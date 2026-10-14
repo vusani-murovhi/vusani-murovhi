@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Vusani Murovhi 👋
+### Aspiring SOC Analyst | Blue Team Defender | Threat Detection Enthusiast
 
-<!--
-**vusani-murovhi/vusani-murovhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Pretoria, South Africa | 🎓 Diploma in IT (Communication Networks)
+📧 vusanimurovhi01@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/vusani-murovhi)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ My Mission
+To become a certified **SOC Analyst L1/L2** dedicated to defending organizations against cyber threats through proactive monitoring, alert triage, and incident response.
+
+> Currently building my SOC Home Lab and documenting my journey.
+
+### 🚀 What I'm Learning
+
+- 🔭 **TryHackMe:** SOC Level 1 Path (Completed 30%)
+- 📚 **Next Certification:** CompTIA Security+ 
+- 🧪 **Home Lab:** Wazuh SIEM | Kali Linux | Windows Event Logs | Sysmon
+- 🛠️ **Analyzing:** Phishing emails, Brute-force attacks, Malware alerts
+
+### 💻 SOC Toolkit
